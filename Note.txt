@@ -1,0 +1,6 @@
+Record: lưu trữ dưới dạng (key,value)
+Window: đoạn dữ liệu mỗi lần thu thập và xử lý
+StreamingProcessing: xử lý dữ liệu bao gồm thu thập dữ liệu và thực hiện nhiệm vụ (ví dụ sử dụng Spark tạo function cho mỗi nhiệm vụ--> ko đi vào chi tiết)
+XMLHandlerSAX and XMLKeys: trích rút dữ liệu từ file XML.
+kafka-producer-consumer_Demo: ví dụ thu thập dữ liệu sử dụng kafka
+extract_xml: xem cấu trúc sơ bộ về dữ liệu của 1 sitemap
